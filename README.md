@@ -1,7 +1,7 @@
 <h1 align="center"> Hey! I'm Gaurisha R Srivastava. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="center"> <a href="https://www.linkedin.com/in/gaurisha-r-srivastava/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurisha-r-srivastava" height='20' width='150'/> </a>
+<p align="center"> <a href="https://www.linkedin.com/in/gaurisha-r-srivastava/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurisha-r-srivastava" height='20' width='90'/> </a>
 <a href="https://github.com/Gaurisha21"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/2%20(2).png?raw=true" alt="Gaurisha21" height='20' width='100'/>  </a>
-<a href="https://twitter.com/RGaurisha"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="RGaurisha" height='20' width='150'/>  </a>
+<a href="https://twitter.com/RGaurisha"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="RGaurisha" height='20' width='90'/>  </a>
 <a href="https://leetcode.com/gaurisha/"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/3.png?raw=true" alt="gaurisha" height='20' width='90'/>  </a>
 
 
