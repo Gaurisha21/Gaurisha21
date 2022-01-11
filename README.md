@@ -5,8 +5,9 @@
 <a href="https://leetcode.com/gaurisha/"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/3.png?raw=true" alt="gaurisha" height='20' width='90'/>  </a>
 
 
-
+## GitHub Stats
 [![Gaurisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurisha21&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
+## Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurisha21&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
 
 <!--
