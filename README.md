@@ -4,6 +4,11 @@
 <a href="gaurisharsrivastava"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/4.png?raw=true" alt="gaurisharsrivastava" height='20' width='150'/>  </a>
 <a href="https://leetcode.com/gaurisha/"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/3.png?raw=true" alt="gaurisha" height='20' width='90'/>  </a>
 
+
+
+[![Gaurisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurisha21&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurisha21&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
+
 <!--
 **Gaurisha21/Gaurisha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
