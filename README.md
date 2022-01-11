@@ -1,13 +1,13 @@
-## Hey! I'm Gaurisha R Srivastava. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/gaurisha-r-srivastava/"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/1%20-%20Copy.png?raw=true" alt="gaurisha-r-srivastava" height='20' width='150'/> </a>
+<h1 align="center"> Hey! I'm Gaurisha R Srivastava. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center"> <a href="https://www.linkedin.com/in/gaurisha-r-srivastava/"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/1%20-%20Copy.png?raw=true" alt="gaurisha-r-srivastava" height='20' width='150'/> </a>
 <a href="https://github.com/Gaurisha21"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/2%20(2).png?raw=true" alt="Gaurisha21" height='20' width='100'/>  </a>
 <a href="gaurisharsrivastava"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/4.png?raw=true" alt="gaurisharsrivastava" height='20' width='150'/>  </a>
 <a href="https://leetcode.com/gaurisha/"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/3.png?raw=true" alt="gaurisha" height='20' width='90'/>  </a>
 
 
-## GitHub Stats
+### GitHub Stats
 [![Gaurisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurisha21&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
-## Top Languages Used
+### Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurisha21&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
 
 <!--
