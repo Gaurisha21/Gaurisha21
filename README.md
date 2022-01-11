@@ -1,6 +1,6 @@
 ## Hey! I'm Gaurisha R Srivastava. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="www.linkedin.com/in/gaurisha-r-srivastava"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/1%20-%20Copy.png?raw=true" alt="Demo Video" height='20' width='150'/> </a>
-<a href="github.com/Gaurisha21"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/2%20(2).png?raw=true" alt="Demo Video" height='20' width='100'/> </a>
+<a href="https://www.linkedin.com/in/gaurisha-r-srivastava/"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/1%20-%20Copy.png?raw=true" alt="Demo Video" height='20' width='150'/> </a>
+<a href="https://github.com/Gaurisha21"> <img src="https://github.com/Gaurisha21/Gaurisha21/blob/main/Images/2%20(2).png?raw=true" alt="Demo Video" height='20' width='100'/> </a>
 
 <!--
 **Gaurisha21/Gaurisha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
