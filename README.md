@@ -2,13 +2,11 @@
 <p align="center"> <a href="https://www.linkedin.com/in/gaurisha-r-srivastava/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gaurisha-r-srivastava" height='20' width='90'/> </a>
 <a href="https://github.com/Gaurisha21"> <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Gaurisha21" height='20' width='80'/>  </a>
 <a href="https://twitter.com/RGaurisha"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="RGaurisha" height='20' width='90'/>  </a>
-<a href="https://leetcode.com/gaurisha/"> <img src="https://img.shields.io/static/v1?message=Leetcode&style=for-the-badge&logo=leetcode&label=%20" alt="gaurisha" height='20' width='90'/>  </a>
+<a href="https://leetcode.com/gaurisha/"> <img src="https://img.shields.io/static/v1?message=Leetcode&style=for-the-badge&logo=leetcode&label=%20" alt="gaurisha" height='20' width='90'/>  </a></h1>
 
+I am a Machine Learning Enthusiast with a deep interest in Problem Solving. As a 'software engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 
-
-### GitHub Stats
 [![Gaurisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurisha21&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
-### Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurisha21&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
 
 <!--
