@@ -1,4 +1,5 @@
-<h1 align="center"> Hey! I'm Gaurisha R Srivastava. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Hey! I'm Gaurisha R Srivastava. 
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> -->
 <p align="center">
 <a href="https://github.com/Gaurisha21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gaurisha21" height="30" width="40"/>  </a>
 <a href="https://www.linkedin.com/in/gaurisha-r-srivastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurisha-r-srivastava" height="30" width="40" /></a>
