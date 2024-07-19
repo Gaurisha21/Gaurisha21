@@ -7,7 +7,7 @@
 <a href="https://medium.com/@gaurisha21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gaurisha21" height="30" width="40" /></a>
 <a href="https://twitter.com/RGaurisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RGaurisha" height="30" width="40" /></a></h1>
 
-<div align="justified"><b><h2>SWE at Microsoft | SWE Intern '22 at Microsoft | Google Generation Scholar '21 | Dr. Reddy Health Hackathon, National Winner | Flipkart GRiD 3.0, 2nd Runner Up | VMware CAP Hackathon, National Winner | Founder @ CelestialBiscuit</h2></b></div>
+<div align="justified"><b><h2>SWE & SWE Intern'22 at Microsoft | Google Generation Scholar '21 | National Winner, Dr. Reddy Health Hackathon | 2nd Runner Up, Flipkart GRiD 3.0 | National Finalist, Microsoft Imagine Cup | National Winner, VMware CAP Hackathon </h2></b></div>
 
 I am a Machine Learning Enthusiast with a deep interest in Problem Solving. As a 'software engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 
